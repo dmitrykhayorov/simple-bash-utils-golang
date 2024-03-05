@@ -1,4 +1,4 @@
-# Day 02 - Go Boot camp
+
 
 ## Not Invented Here Syndrome
 
