@@ -2,37 +2,6 @@
 
 ## Not Invented Here Syndrome
 
-## Contents
-
-1. [Chapter I](#chapter-i) \
-    1.1. [General rules](#general-rules)
-2. [Chapter II](#chapter-ii) \
-    2.1. [Rules of the day](#rules-of-the-day)
-3. [Chapter III](#chapter-iii) \
-    3.1. [Intro](#intro)
-4. [Chapter IV](#chapter-iv) \
-    4.1. [Exercise 00: Finding Things](#exercise-00-finding-things)
-5. [Chapter V](#chapter-v) \
-    5.1. [Exercise 01: Counting Things](#exercise-01-counting-things)
-6. [Chapter VI](#chapter-vi) \
-    6.1. [Exercise 02: Running Things](#exercise-02-running-things)
-7. [Chapter VII](#chapter-vii) \
-    7.1. [Exercise 03: Archiving Things](#exercise-03-archiving-things)
-
-
-<h2 id="chapter-i" >Chapter I</h2>
-<h2 id="general-rules" >General rules</h2>
-
-- Your programs should not quit unexpectedly (giving an error on a valid input). If this happens, your project will be considered non functional and will receive a 0 during the evaluation.
-- We encourage you to create test programs for your project even though this work won't have to be submitted and won't be graded. It will give you a chance to easily test your work and your peers' work. You will find those tests especially useful during your defence. Indeed, during defence, you are free to use your tests and/or the tests of the peer you are evaluating.
-- Submit your work to your assigned git repository. Only the work in the git repository will be graded.
-- If your code is using external dependencies, it should use [Go Modules](https://go.dev/blog/using-go-modules) for managing them
-
-<h2 id="chapter-ii" >Chapter II</h2>
-<h2 id="rules-of-the-day" >Rules of the day</h2>
-
-- You should only turn in `*.go` files and (in case of external dependencies) `go.mod` + `go.sum`
-- Your code for this task should be buildable with just `go build`
 
 <h2 id="chapter-iii" >Chapter III</h2>
 <h2 id="intro" >Intro</h2>
